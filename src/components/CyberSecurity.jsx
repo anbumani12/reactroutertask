@@ -147,9 +147,7 @@ function CyberSecurity() {
               </h5>
               <p className="card-text">
                 Cybersecurity is an exact solution that is sought either by a
-                billionaire with a massive business or an innovator with a small
-                start-up or even an individual who risks personal data online.
-                Let’s see more.
+                billionaire with a massive business.
                 <span className="read-more">
                   <strong>READ MORE</strong>
                 </span>
