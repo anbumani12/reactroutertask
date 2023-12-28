@@ -108,7 +108,7 @@ function Datascience() {
         <div className="col">
           <div className="card h-100">
           <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp"
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-2048x1072.png"
               className="card-img-top"
               alt=""
             />
