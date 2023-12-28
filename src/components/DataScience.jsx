@@ -118,7 +118,9 @@ function Datascience() {
               </h5>
               <p className="card-text">
                 In today’s world, it’s becoming increasingly important to be
-                knowledgeable in the field of data science.
+                knowledgeable in the field of data science.With data being such
+                an integral part of nearly every industry, staying up to date on
+                the latest trends and techniques is crucial.
                 <span className="read-more">
                   <strong>READ MORE</strong>
                 </span>

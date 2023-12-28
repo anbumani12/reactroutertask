@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Career() {
   return (
@@ -7,18 +7,19 @@ function Career() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg"
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Mechanical-Engineering-Resume-Important-Things-To-Look-Out-For.webp"
               className="card-img-top"
               alt=""
             />
             <div className="card-body">
               <h5 className="card-title">
-                UI/UX Designer Job Description and Roles & Responsibilities
+                Mechanical Engineering Resume: 9 Important Things To Look Out
+                For
               </h5>
               <p className="card-text">
-                UI UX is the abbreviated word that’s been rocking the trend over
-                the years, especially in the past decade. You know what UI UX
-                is, but do you know their roles and responsibilities?
+                With the development of technology, most of us started
+                forgetting about mechanical engineering which pioneered the
+                whole industrial revolution.
                 <span className="read-more">
                   <strong>READ MORE</strong>
                 </span>
@@ -94,7 +95,7 @@ function Career() {
               </h5>
               <p className="card-text">
                 The world is moving towards automating the testing of products
-                in order to increase work efficiency. 
+                in order to increase work efficiency.
                 <span className="read-more">
                   <strong>READ MORE</strong>
                 </span>
@@ -133,34 +134,34 @@ function Career() {
             </div>
           </div>
         </div>
-          <div className="col">
-            <div className="card h-100">
-              <img
-                src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp"
-                className="card-img-top"
-                alt=""
-              />
-              <div className="card-body">
-                <h5 className="card-title">
-                  9 Best Product-Based Companies for Project Management
-                </h5>
-                <p className="card-text">
-                  In today’s tech-driven world, the demand for project managers
-                  is higher than before. The workload of every other company is
-                  exponential and they need project managers to maintain them
-                  effectively.
-                  <span className="read-more">
-                    <strong>READ MORE</strong>
-                  </span>
-                </p>
-              </div>
-              <div className="card-footer">
-                <small className="text-body-secondary">01 December 2023</small>
-              </div>
+        <div className="col">
+          <div className="card h-100">
+            <img
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp"
+              className="card-img-top"
+              alt=""
+            />
+            <div className="card-body">
+              <h5 className="card-title">
+                9 Best Product-Based Companies for Project Management
+              </h5>
+              <p className="card-text">
+                In today’s tech-driven world, the demand for project managers is
+                higher than before. The workload of every other company is
+                exponential and they need project managers to maintain them
+                effectively.
+                <span className="read-more">
+                  <strong>READ MORE</strong>
+                </span>
+              </p>
+            </div>
+            <div className="card-footer">
+              <small className="text-body-secondary">01 December 2023</small>
             </div>
           </div>
         </div>
       </div>
+    </div>
   );
 }
 
