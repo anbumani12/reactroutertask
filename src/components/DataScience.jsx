@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Datascience() {
   return (
@@ -107,54 +107,55 @@ function Datascience() {
 
         <div className="col">
           <div className="card h-100">
-          <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Data-Science-Tools-1-2048x1072.png"
+            <img
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/08/data-science-webinars-and-workshops-2048x1072.webp"
               className="card-img-top"
               alt=""
             />
             <div className="card-body">
-              <h5 className="card-title">Top 10 Data Science Tools in 2024</h5>
+              <h5 className="card-title">
+                Data Science Webinars and Workshops
+              </h5>
               <p className="card-text">
-                Data Science is an in-demand profession and will continue
-                growing in the coming years.
+                In today’s world, it’s becoming increasingly important to be
+                knowledgeable in the field of data science.
                 <span className="read-more">
                   <strong>READ MORE</strong>
                 </span>
               </p>
             </div>
             <div className="card-footer">
-              <small className="text-body-secondary">01 November 2023</small>
+              <small className="text-body-secondary">09 August 2023</small>
             </div>
           </div>
         </div>
-          <div className="col">
-            <div className="card h-100">
-              <img
-                src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp"
-                className="card-img-top"
-                alt=""
-              />
-              <div className="card-body">
-                <h5 className="card-title">
-                  Best Data Science Books to Learn in 2024
-                </h5>
-                <p className="card-text">
-                  Today, we’re going to talk about something really cool: data
-                  science. It’s all about using data to make smart decisions and
-                  create amazing things.
-                  <span className="read-more">
-                    <strong>READ MORE</strong>
-                  </span>
-                </p>
-              </div>
-              <div className="card-footer">
-                <small className="text-body-secondary">26 October 2023</small>
-              </div>
+        <div className="col">
+          <div className="card h-100">
+            <img
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp"
+              className="card-img-top"
+              alt=""
+            />
+            <div className="card-body">
+              <h5 className="card-title">
+                Best Data Science Books to Learn in 2024
+              </h5>
+              <p className="card-text">
+                Today, we’re going to talk about something really cool: data
+                science. It’s all about using data to make smart decisions and
+                create amazing things.
+                <span className="read-more">
+                  <strong>READ MORE</strong>
+                </span>
+              </p>
+            </div>
+            <div className="card-footer">
+              <small className="text-body-secondary">26 October 2023</small>
             </div>
           </div>
         </div>
       </div>
-    
+    </div>
   );
 }
 
